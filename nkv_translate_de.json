@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Aus|Sonne|+ Heizstab",
+    "Solar collector control": "Solarthermie-Regelung",
+    "Solar collector tank temperature": "Temperatur des Solarspeichers",
+    "Collector tank frost limit temperature": "Frostschutz-Grenztemperatur des Solarspeichers",
+    "Switching differential": "Schaltdifferenz",
+    "Tank temperature with heating cartridge": "Speichertemperatur mit Heizstab",
+    "Heating element hysteresis": "Hysterese des Heizstabs"
+}

@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Av|Sol|+ Elpatron",
+    "Solar collector control": "Styrning av solfångare",
+    "Solar collector tank temperature": "Temperatur i solvärmetank",
+    "Collector tank frost limit temperature": "Frostskyddsgräns för solvärmetank",
+    "Switching differential": "Kopplingsdifferens",
+    "Tank temperature with heating cartridge": "Tanktemperatur med elpatron",
+    "Heating element hysteresis": "Hysteres för elpatron"
+}

@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Vypnuto|Slunce|+ Topná patrona",
+    "Solar collector control": "Řízení solárního kolektoru",
+    "Solar collector tank temperature": "Teplota zásobníku solárního kolektoru",
+    "Collector tank frost limit temperature": "Mezní teplota ochrany zásobníku kolektoru proti mrazu",
+    "Switching differential": "Spínací teplotní rozdíl",
+    "Tank temperature with heating cartridge": "Teplota zásobníku s topnou patronou",
+    "Heating element hysteresis": "Hystereze topné patrony"
+}

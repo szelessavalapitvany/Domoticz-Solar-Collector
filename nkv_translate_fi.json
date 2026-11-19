@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Pois|Aurinko|+ Sähkövastus",
+    "Solar collector control": "Aurinkokeräimen ohjaus",
+    "Solar collector tank temperature": "Aurinkolämpövaraajan lämpötila",
+    "Collector tank frost limit temperature": "Keräimen varaajan jäätymissuojan rajalämpötila",
+    "Switching differential": "Kytkentälämpötilaero",
+    "Tank temperature with heating cartridge": "Varaajan lämpötila sähkövastuksella",
+    "Heating element hysteresis": "Sähkövastuksen hystereesi"
+}

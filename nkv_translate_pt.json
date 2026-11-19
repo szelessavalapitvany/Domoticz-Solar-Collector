@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Desligado|Sol|+ Resistência elétrica",
+    "Solar collector control": "Controlo do coletor solar",
+    "Solar collector tank temperature": "Temperatura do depósito solar",
+    "Collector tank frost limit temperature": "Temperatura limite anticongelamento do depósito solar",
+    "Switching differential": "Diferencial de comutação",
+    "Tank temperature with heating cartridge": "Temperatura do depósito com resistência elétrica",
+    "Heating element hysteresis": "Histerese da resistência elétrica"
+}

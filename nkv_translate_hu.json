@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Ki|Nap|+ Fűtőpatron",
+    "Solar collector control": "Napkollektoros vezérlés",
+    "Solar collector tank temperature": "Napkollektoros tartályhőmérséklet",
+    "Collector tank frost limit temperature": "Kollektortartály fagyvédelmi határhőmérséklete",
+    "Switching differential": "Kapcsolási hőmérséklet-különbség",
+    "Tank temperature with heating cartridge": "Tartályhőmérséklet fűtőpatronnal",
+    "Heating element hysteresis": "Fűtőpatron hiszterézise"
+}

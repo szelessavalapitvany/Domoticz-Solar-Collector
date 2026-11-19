@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "オフ|太陽熱|+ 電気ヒーター",
+    "Solar collector control": "太陽熱集熱器の制御",
+    "Solar collector tank temperature": "太陽熱貯湯タンクの温度",
+    "Collector tank frost limit temperature": "集熱器タンクの凍結防止限界温度",
+    "Switching differential": "切替温度差",
+    "Tank temperature with heating cartridge": "電気ヒーター使用時のタンク温度",
+    "Heating element hysteresis": "電気ヒーターのヒステリシス"
+}

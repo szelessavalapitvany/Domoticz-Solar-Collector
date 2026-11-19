@@ -1,0 +1,9 @@
+{
+    "Off|Sun|+ Heating cartridge": "Выкл.|Солнце|+ ТЭН",
+    "Solar collector control": "Управление солнечным коллектором",
+    "Solar collector tank temperature": "Температура бака солнечного коллектора",
+    "Collector tank frost limit temperature": "Пороговая температура защиты бака от замерзания",
+    "Switching differential": "Разница температур переключения",
+    "Tank temperature with heating cartridge": "Температура бака с ТЭНом",
+    "Heating element hysteresis": "Гистерезис ТЭНа"
+}
